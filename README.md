@@ -12,7 +12,7 @@ An AI-powered research assistant that searches the web in real-time using Tavily
 - Source citations
 
 ## 🔗 Live Demo
-
+[https://ai-research-assistant-tavily.streamlit.app/]
 
 ## 📷 ScreenShots
 ![alt text](AI_Research_Assistant.png)
